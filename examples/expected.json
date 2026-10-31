@@ -1,0 +1,8 @@
+{
+  "common_features": [
+    "aes",
+    "sse4.2"
+  ],
+  "compatible": true,
+  "missing_required": []
+}
